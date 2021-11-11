@@ -1,0 +1,99 @@
+body {
+	font-family: "Inconsolata" !important;
+	background-color: #20154a;
+	color: #fff;
+	margin: none !important;
+}
+
+h1 {
+	font-family: "Noto Sans";
+	font-size: 54px;
+	color: #fff;
+}
+
+h4 {
+	font-family: "Inconsolata" !important;
+}
+
+.container-nav {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.nav-brand-and-img {
+	margin-left: 10px !important;
+}
+
+.navbar-img {
+	object-fit: cover !important;
+	border-radius: 50% !important;
+	border: 1px solid;
+	border-color: white;
+}
+
+.c-shadow {
+	-moz-box-shadow:    inset 0 0 0 3px #fff;
+	-webkit-box-shadow: inset 0 0 0 3px #fff;
+	box-shadow:         inset 0 0 0 3px #fff;
+}
+
+.custom-color {
+	background-color: #20154a !important;
+}
+
+.navbar {
+	border-color: white;
+	border: 1px solid;
+}
+
+.navbar-brand {
+	padding-left: 0.1rem !important;
+	font-size: 20px !important;
+	color: white !important;
+}
+
+.nav-link {
+	font-size: 20px !important;
+	color: white !important;
+}
+
+.left-links {
+	padding-left: 0.5rem !important;
+	padding-right: 1rem !important;
+}
+
+.navbar-toggler {
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.about-showcase {
+	border-color: white;
+	border: 1px solid;
+	-moz-box-shadow:    0.2rem 0.2rem 0 1px #fff !important;
+	-webkit-box-shadow: 0.2rem 0.2rem 0 1px #fff !important;
+	box-shadow:         0.2rem 0.2rem 0 1px #fff !important;
+}
+
+.container-rare-color {
+	background-color: #B4F8C8;
+	color: black !important;
+}
+
+.container-rare-color-2 {
+	background-color: #20154a;
+	color: white !important;
+}
+
+.container-rare-color-3 {
+	background-color: #A0E7E5;
+	color: black !important;
+}
+
+@media (min-width: 900px) {
+	.roadmap-info {
+		padding-left: 10rem;
+		padding-right: 10rem;
+	}
+}
